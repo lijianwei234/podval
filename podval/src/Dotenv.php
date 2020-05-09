@@ -48,7 +48,7 @@ class Dotenv
     public function load()
     {
         return $this->loadData();
-    }   
+    }
 
     /**
      * Load environment file in given directory, suppress InvalidPathException.
