@@ -1,0 +1,19 @@
+{
+    "name": "lijianwei234/podval",
+    "description": "just for study, laravel user in env",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lijianwei234",
+            "email": "sd_ljw@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Dotenv\\": "src"
+        }
+    },
+    "require": {}
+}
