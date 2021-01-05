@@ -1,7 +1,7 @@
 {
     "name": "lijianwei234/podval",
     "description": "just for study, laravel user in env",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
